@@ -1,0 +1,50 @@
+﻿빌드 시작: 2019-04-25 오전 11:23:25
+     1>2 노드의 "C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Practice_Exam_ex\Practice_Exam_ex.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Practice_Exam_ex.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt pr17.cpp
+         pr17.cpp
+     1>c:\users\juny\documents\visual studio 2010\projects\practice_exam_ex\practice_exam_ex\pr17.cpp(18): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Debug\Practice_Exam_ex.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Practice_Exam_ex.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Debug\Practice_Exam_ex.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Debug\Practice_Exam_ex.lib" /MACHINE:X86 Debug\Practice_Exam_ex.exe.embed.manifest.res
+         Debug\pr15_ClassOperator.obj
+         Debug\pr11_MyString.obj
+         Debug\pr04_MyArray.obj
+         "Debug\pr01_string함수들.obj"
+         "Debug\pr02_삼항연산자_inline.obj"
+         "Debug\pr03_ch3클래스_10번.obj"
+         "Debug\pr03_ch3클래스_05번.obj"
+         "Debug\pr03_ch3클래스_07번.obj"
+         "Debug\pr03_ch3클래스_08번.obj"
+         "Debug\pr04_ch4동적생성_ArrayClass.obj"
+         "Debug\pr05_ch4_이차원함수인자.obj"
+         "Debug\pr06_ch4_07번.obj"
+         "Debug\pr07_ch4_10번.obj"
+         "Debug\pr08_ch4_11번.obj"
+         Debug\pr09_MyPos.obj
+         "Debug\pr09_객체를 인자로 주고 받기.obj"
+         "Debug\pr10_복사생성자.obj"
+         Debug\pr11_MyString_main.obj
+         "Debug\pr12_ch5_4번.obj"
+         "Debug\pr13_ch5_5번.obj"
+         "Debug\pr14_ch5_7번.obj"
+         Debug\pr15_ClassOperator_friend_operator.obj
+         "Debug\pr16_상속.obj"
+         Debug\pr17.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Practice_Exam_ex.exe.embed.manifest" /manifest Debug\Practice_Exam_ex.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         Practice_Exam_ex.vcxproj -> C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Debug\Practice_Exam_ex.exe
+       FinalizeBuildStatus:
+         "Debug\Practice_Exam_ex.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Practice_Exam_ex.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\JunY\Documents\Visual Studio 2010\Projects\Practice_Exam_ex\Practice_Exam_ex\Practice_Exam_ex.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.44
